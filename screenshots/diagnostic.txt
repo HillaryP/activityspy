@@ -1,0 +1,3 @@
+01-20 10:03:29.716      535-535/edu.washington.prathh.activityspy I/MainActivity﹕ onCreate even fired
+01-20 10:03:29.815      535-535/edu.washington.prathh.activityspy I/MainActivity﹕ onCreateOptionsMenu event fired
+01-20 10:04:31.425      535-535/edu.washington.prathh.activityspy E/MainActivity﹕ We're going down, Captain!
